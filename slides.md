@@ -23,7 +23,7 @@ mdc: true
 presenter: true
 ---
 
-# LI2S informatique
+# LI2S Informatique
 
 Formations IT/DevOps/IAC
 
