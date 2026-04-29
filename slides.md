@@ -11,7 +11,9 @@ info: |
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
+  
   Download [Cours](https://www.li2s.fr/Docker3v4.pdf)
+  
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
