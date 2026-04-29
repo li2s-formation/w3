@@ -11,9 +11,7 @@ info: |
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
-  
-  Download [Cours](https://www.li2s.fr/Docker3v4.pdf)
-  
+    
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -33,6 +31,9 @@ Formations IT DevOps IAC
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Appuyer sur espace <carbon:arrow-right />
 </div>
+
+Download [Cours](https://www.li2s.fr/Docker3v4.pdf)
+
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
